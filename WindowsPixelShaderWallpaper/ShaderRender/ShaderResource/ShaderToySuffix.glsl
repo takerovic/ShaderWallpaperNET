@@ -1,0 +1,1 @@
+﻿void main() { mainImage(out_color, gl_FragCoord.xy); }
